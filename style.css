@@ -2,4 +2,6 @@ body {
     background-image: url("https://cdnb.artstation.com/p/assets/images/images/009/327/495/large/daniel-veres-17-02-09.jpg?1518368975");
     background-attachment: fixed;
     color: white;
+    font-size: 26px;
+    margin: 7vw;
 }
